@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgb(193, 248, 246), rgb(191, 238, 187));
+    height: 800px;
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cff5dc;
+    margin: 20px;
+    padding: 80px;
+    font-size: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-items: center;
+}
+
+#Login{
+    color: black;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.Log{
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+body{
+
+    background-color: rgb(217, 223, 140);
+    height: 800px;
+    background-image: linear-gradient(rgb(193, 248, 246), rgb(191, 238, 187));
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cff5dc;
+    margin: 20px;
+    padding: 80px;
+    font-size: 20px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-items: center;
+}
+
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+    position: absolute;
+    width: 66%;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+button:hover{
+    background-color: rgb(48, 45, 45);
+    cursor: pointer;
+}
+
+#Login{
+    color: black;
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.Log{
+    text-align: center;
+}
+
